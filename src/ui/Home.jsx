@@ -1,3 +1,6 @@
+import React from "react"; // Add this line temporarily to fix the issue
+
+
 function Home() {
   return (
     <div>

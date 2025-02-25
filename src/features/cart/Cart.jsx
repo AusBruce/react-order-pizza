@@ -1,3 +1,4 @@
+import React from "react"; // Add this line temporarily to fix the issue
 import { Link } from 'react-router-dom';
 
 const fakeCart = [

@@ -1,3 +1,4 @@
+import React from "react"; // Add this line temporarily to fix the issue
 import { useState } from "react";
 
 // https://uibakery.io/regex-library/phone-number

@@ -1,3 +1,4 @@
+import React from "react"; // Add this line temporarily to fix the issue
 import {formatCurrency} from "../../utils/helpers"
 
 function OrderItem({ item, isLoadingIngredients, ingredients }) {
